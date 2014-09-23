@@ -1,0 +1,44 @@
+/* Fresh Start CSS */
+
+h3{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+.location{
+  position: fixed;
+  padding-left: 5px;
+  height: 28px;
+  top: 310px;
+  border: 2px solid red;
+}
+
+.settings{
+  position: fixed;
+  padding-left: 5px;
+  height: 28px;
+  top: 340px;
+  border: 2px solid red;
+}
+
+.footer{
+    height: 50px;
+    position: fixed;
+    bottom: 10px;
+    left: -5px;
+    line-height: 50px;
+    color: #aaa;
+    text-align: center;
+    width: 100%;
+}
+
+.footernav{
+  height: 45px;
+}
